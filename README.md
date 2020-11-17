@@ -21,7 +21,7 @@ perceptron_function([3,4,5], [1,2,3])
 ```
 
 ## Assignment 2: Judge the bodies
-1. Read in the dataset **undeads.csv** into a pandas dataframe, and display the dataset.
+1. Read in the dataset [**undeads.csv**](https://raw.githubusercontent.com/Micniks/Python-Week12-Group-3-Assignments/main/undeads.csv) into a pandas dataframe, and display the dataset.
 2. Make a new scatter plot with datapoints of Age vs Durability from the dataset. Choose different colors for **Zombie** and **Skeleton**
 3. Now change the 'Type' column to represent **Zombie as 1** and **Skeleton as 0**
 4. Use these weights herè in order [-9, 7], [-8, 7], [-7, 7] to determine if the following 3 undeads are skeletons or zombies: 
@@ -36,6 +36,6 @@ perceptron_function([3,4,5], [1,2,3])
 
 _______________________
 
-Vi benytter datasættene: [NEED TO ADD](https://raw.githubusercontent.com/Micniks/Python-Week11-Group-3-Assignments/main/cultists.csv)
+Vi benytter datasættene: [undeads dataset](https://raw.githubusercontent.com/Micniks/Python-Week12-Group-3-Assignments/main/undeads.csv)
 
 Dette github repository er tilrettet opgavestillinger, så udspecifieret her: [Uge7 Opgave](https://docs.google.com/document/d/1ojSiBWwLo4-Rc7763vx6aVEYdNluATOMja9qqk4dodU/edit#) 
