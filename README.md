@@ -24,7 +24,7 @@ perceptron_function([3,4,5], [1,2,3])
 1. Read in the dataset [**undeads.csv**](https://raw.githubusercontent.com/Micniks/Python-Week12-Group-3-Assignments/main/undeads.csv) into a pandas dataframe, and display the dataset.
 2. Make a new scatter plot with datapoints of Age vs Durability from the dataset. Choose different colors for **Zombie** and **Skeleton**
 3. Now change the 'Type' column to represent **Zombie as 1** and **Skeleton as 0**
-4. Use these weights herè in order [-9, 7], [-8, 7], [-7, 7] to determine if the following 3 undeads are skeletons or zombies: 
+4. Use these weights herè in order [-9, 7], [-8, 7], [-7, 7] to determine if the following 5 undeads are skeletons or zombies: 
 ```python
 [[47, 41.2, 'Skeleton'], [44, 76.0, 'Zombie'], [59, 36.4, 'Skeleton'], [52, 68.0, 'Zombie'], [51, 39.6, 'Skeleton']]
 ```
