@@ -8,7 +8,7 @@
 
 # The Necromancer Recruitment Service
 
-![](https://sorelosergames.dk/____impro/1/onewebmedia/Cover360Test.jpg?etag=%222353cb-5d7c9cc3%22&sourceContentType=image%2Fjpeg&ignoreAspectRatio&resize=1838%2B919&extract=174%2B36%2B1464%2B762&quality=85)
+<img src="https://sorelosergames.dk/____impro/1/onewebmedia/Cover360Test.jpg?etag=%222353cb-5d7c9cc3%22&sourceContentType=image%2Fjpeg&ignoreAspectRatio&resize=1838%2B919&extract=174%2B36%2B1464%2B762&quality=85" alt="Necromancer Inc">
 
 ## Assignment 1: Prepare the Ritual
 For the Perceptron, we are going to need a activation_function, and a perceptron_function
@@ -32,7 +32,7 @@ perceptron_function([3,4,5], [1,2,3])
 6. Find the (approximately) optimal weights using the perceptron learning algorithm
 7. Plot the division line
 
-![](https://i.pinimg.com/originals/fc/4d/de/fc4dde5d86103120bab08199d5b00143.jpg)
+<img src="https://i.pinimg.com/originals/fc/4d/de/fc4dde5d86103120bab08199d5b00143.jpg" alt="Necromancer Inspection" width="500">
 
 _______________________
 
